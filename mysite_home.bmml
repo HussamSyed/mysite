@@ -1,0 +1,36 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="956" measuredH="583" mockupW="788" mockupH="567">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="168" y="16" w="788" h="567" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Personal%20Site%0Ahttp%3A//www.hussamsyed.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Title" x="250" y="137" w="-1" h="-1" measuredW="251" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hussam%20Syed</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::ButtonBar" x="365" y="104" w="-1" h="-1" measuredW="395" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Home%2C%20About%2C%20Goals%2C%20Media%2C%20Contact%2C%20Guestbook</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextArea" x="250" y="180" w="474" h="325" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Space%20for%20blog</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="758" y="180" w="133" h="128" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="758" y="323" w="175" h="-1" measuredW="188" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Details%20about%20the%20author%20%28me%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Calendar" x="759" y="365" w="147" h="140" measuredW="96" measuredH="96" zOrder="6" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

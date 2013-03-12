@@ -1,0 +1,57 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="956" measuredH="583" mockupW="788" mockupH="567">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="168" y="16" w="788" h="567" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Personal%20Site%0Ahttp%3A//www.hussamsyed.com/contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Title" x="256" y="146" w="-1" h="-1" measuredW="251" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hussam%20Syed</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::ButtonBar" x="365" y="104" w="-1" h="-1" measuredW="395" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>4</selectedIndex>
+        <text>Home%2C%20About%2C%20Goals%2C%20Media%2C%20Contact%2C%20Guestbook</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="234" y="229" w="163" h="-1" measuredW="121" measuredH="26" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Contact%20me%20at%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::HRule" x="227" y="184" w="651" h="-1" measuredW="100" measuredH="10" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Link" x="234" y="255" w="-1" h="-1" measuredW="97" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>email%20addresses</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::VRule" x="677" y="208" w="-1" h="314" measuredW="10" measuredH="100" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="702" y="216" w="170" h="-1" measuredW="112" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Or%20find%20me%20at%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Link" x="234" y="273" w="-1" h="-1" measuredW="84" measuredH="19" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>phone%20number</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Icon" x="703" y="258" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Icon" x="763" y="258" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Icon" x="824" y="258" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::HCurly" x="693" y="323" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>facebook%2C%20linkedin%2C%20twitter%2C%20etc.</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="234" y="208" w="-1" h="-1" measuredW="411" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Need%20more%20info%3F%20Feel%20this%20site%20is%20not%20enough%3F%20Interested%20in%20my%20skills%3F%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
